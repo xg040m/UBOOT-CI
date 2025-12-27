@@ -10,7 +10,7 @@ on:
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
   WRT_TARGET: MTK-798x
-  WRT_REPO: https://github.com/sfsk00/bl-mt798x.git
+  WRT_REPO: https://github.com/xg040m/bl-mt798x-dhcpd.git
   WRT_BRANCH: master
 
 permissions: write-all
